@@ -1,2 +1,2 @@
 # MyPatent
-Error Correction Codes Patents
+My Error Correction Codes Patents applied with Lcrypto and other guys
